@@ -1,31 +1,34 @@
-## 个人简历
+## 关于我
 ![me.jpg](./me.jpg)  *爱开源、爱游泳、爱网球的老青年*
 
 **黄先生 | 已婚 | 75后 | 户口：北京 | 现居住于北京**
 
 **手机**：13520039732              **邮箱**：13520039732@139.com
 
-**Git账号**：https://github.com/bighenry1024
-**个人博客**：[http://www.jianshu.com/u/ebd9d51df86d](http://www.jianshu.com/u/ebd9d51df86d)
+**Git**：https://github.com/bighenry1024
 
-###### 培训授课实录
+**Blog**：[http://www.jianshu.com/u/ebd9d51df86d](http://www.jianshu.com/u/ebd9d51df86d)
 
-mysql主主复制+高可用（健康检查） https://pan.baidu.com/s/1c2iS3lu
+### 培训授课实录视频
 
-Telnet讲解及tcpdump抓包分析 https://pan.baidu.com/s/1eSLyeVC
+- **mysql主主复制+高可用（健康检查）** https://pan.baidu.com/s/1c2iS3lu
 
-Keepalived+LVS集群 https://pan.baidu.com/s/1boQD7KN
+- **Telnet讲解及tcpdump抓包分析三次握手、明文密码** https://pan.baidu.com/s/1eSLyeVC
 
-### 求职意向
+- **Keepalived+LVS集群** https://pan.baidu.com/s/1boQD7KN
+
+### 工作意向
 期望工作性质：	**全职**	期望工作地区： **北京(可短期出差)**
 
-期望从事职业：	**云计算Openstack培训讲师/运维总监/运维经理**
+期望从事职业：	**运维总监 | 运维经理 | 云计算培训师-Openstack/Docker/虚拟化/公有云/运维自动化方向**
 
 期望月薪： **45000元/月**
 
 目前状况： **在职，考虑更高层次平台（如有合适的工作机会，到岗时间半个月左右）**
 ### 自我评价
-- 10+年IT领域相关工作经验，最近2+年的培训讲师及项目经理工作经验，热爱IT培训行业并全身心投入，深入浅出的授课方式、强烈的责任感、使命感获得所有学员高度认可；
+- 10+年IT领域相关工作经验，最近2+年的培训讲师及项目经理工作经验，热爱IT培训行业并全身心投入，深入浅出的授课方式、强烈的责任感、使命感获得学员高度认可；
+- 对线下、在线教育行业有较深理解；
+- 熟悉实时互动音视频直播平台架构、业务及应用场景，
 
 - 5+年10人以下IT部门管理经历，有一定的中层管理经验；
 
