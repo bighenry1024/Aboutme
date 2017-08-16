@@ -13,9 +13,9 @@ Blog：[http://www.jianshu.com/u/ebd9d51df86d](http://www.jianshu.com/u/ebd9d51d
 
 - **mysql主主复制+高可用（健康检查）** [https://pan.baidu.com/s/1c2iS3lu](https://pan.baidu.com/s/1c2iS3lu)
 
-- **Telnet讲解及tcpdump抓包分析三次握手、明文密码** https://pan.baidu.com/s/1eSLyeVC
+- **Telnet讲解及tcpdump抓包分析三次握手、明文密码** [https://pan.baidu.com/s/1eSLyeVC](https://pan.baidu.com/s/1eSLyeVC)
 
-- **Keepalived+LVS集群** https://pan.baidu.com/s/1boQD7KN
+- **Keepalived+LVS集群** [https://pan.baidu.com/s/1boQD7KN](https://pan.baidu.com/s/1boQD7KN)
 
 ### 工作意向
 期望工作性质：	**全职**	期望工作地区： **北京(可短期出差)**
