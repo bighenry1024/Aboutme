@@ -5,7 +5,7 @@
 
 **手机**：13520039732              **邮箱**：13520039732@139.com
 
-Git：[https://github.com/bighenry1024](https://github.com/bighenry1024)
+Github：[https://github.com/bighenry1024](https://github.com/bighenry1024)
 
 Blog：[http://www.jianshu.com/u/ebd9d51df86d](http://www.jianshu.com/u/ebd9d51df86d)
 
@@ -95,11 +95,11 @@ Blog：[http://www.jianshu.com/u/ebd9d51df86d](http://www.jianshu.com/u/ebd9d51d
 ### 近期项目经验
 #### **2016/05-至今 云计算专业学员高薪就业**
 
-**项目描述 ** :
+** 项目描述**
 
 学员进入就业实训阶段（每班20人左右），完成为期两月、以IT企业运维团队管理方式进行全程项目实战，使学员具有DevOps理念，扩展学员行业、专业知识面广度及深度，通过真机实操强化学员专业技能、职场素养等，以胜任初级至中级云计算/云架构/云运维工程师职位要求，保证全部学员对口就业
 
-**责任描述 **：
+**责任描述**
 - 独立负责三届就业实训班，所带学员最高薪资为`试用15k转正18k ，最高班平均薪资10k`，项目聚焦于：
 	1. Openstack云计算架构、部署、运维，Python二次开发有所涉及；
 
