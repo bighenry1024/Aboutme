@@ -111,7 +111,7 @@ Blog：[http://www.jianshu.com/u/ebd9d51df86d](http://www.jianshu.com/u/ebd9d51d
 
 **平台架构**
 
-Saas+MCU集群+SRS(或AMS)集群+DOC文档服务集群+CDN
+Saas(包括redis缓存+mongoDB)+MCU集群+SRS(或AMS)集群+DOC文档服务集群+solr服务器+CDN
 
 #### **2016.05-2017.03 云架构专业学员高薪就业**
 
